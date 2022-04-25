@@ -1,0 +1,3 @@
+moveTotable(A,B)
+move(B,C,A)
+move(C,Table,B)
